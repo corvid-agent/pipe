@@ -1,5 +1,9 @@
 # @corvid-agent/pipe
 
+[![CI](https://github.com/corvid-agent/pipe/actions/workflows/ci.yml/badge.svg)](https://github.com/corvid-agent/pipe/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/@corvid-agent/pipe)](https://www.npmjs.com/package/@corvid-agent/pipe)
+![zero deps](https://img.shields.io/badge/dependencies-0-brightgreen)
+
 Functional pipe and compose with full TypeScript type inference. Zero dependencies.
 
 ## Install
